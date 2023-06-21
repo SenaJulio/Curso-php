@@ -7,8 +7,8 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@700&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="assets/css/estilo.css">
-<link rel="stylesheet" href="assets/css/exercicio.css">
+<link rel="stylesheet" href="recurso/css/estilo.css">
+<link rel="stylesheet" href="recurso/css/exercicio.css">
     <title>Exercicio</title>
 </head>
 <body class="exercicio">

@@ -33,8 +33,13 @@
                             </a>
                         </li>
                         <li>
-                            <a href="exercicio.php?dir=basico&file=css">
-                                Integração CSS
+                            <a href="exercicio.php?dir=basico&file=comentarios">
+                                Comentários PHP
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=basico&file=desafio">
+                                Desafio
                             </a>
                         </li>
                     </ul>

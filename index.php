@@ -52,6 +52,16 @@
                                 Tipo Inteiro
                             </a>
                         </li>
+                        <li>
+                            <a href="exercicio.php?dir=tipo&file=float">
+                                Tipo Float
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=tipo&file=aritmeticas">
+                               Operações Aritméticas 
+                            </a>
+                        </li>
                        
                        
                     </ul>
